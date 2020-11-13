@@ -1,0 +1,2 @@
+com/example/habittracker/android/BuildConfig.java
+ com.example.habittracker.android.BuildConfig
